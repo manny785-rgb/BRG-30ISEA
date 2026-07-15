@@ -16,4 +16,8 @@ Cloud VM
 <img width="1562" height="787" alt="image" src="https://github.com/user-attachments/assets/aa99e1d5-c9aa-4ee3-a1d8-85b41c32b246" />
 
 
+As part of getting familiar with the Ubuntu desktop environment
+<img width="997" height="772" alt="Screenshot 2026-07-15 113830" src="https://github.com/user-attachments/assets/a8d0fbc0-9186-41cb-878a-3d4efdfe9531" />
+<img width="1003" height="768" alt="Screenshot 2026-07-15 113854" src="https://github.com/user-attachments/assets/d779790c-17b5-49fb-82a4-1de223b844e0" />
+<img width="1013" height="772" alt="Screenshot 2026-07-15 113945" src="https://github.com/user-attachments/assets/db4ddd70-dd5b-4bfc-a887-2049e97a4c3a" />
 
